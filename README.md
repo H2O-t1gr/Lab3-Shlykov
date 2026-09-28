@@ -20,4 +20,4 @@
 
 ## Зображення
 
-![Логотип](images/logo.png)
+![Логотип](images/logo.jpg)
