@@ -24,4 +24,4 @@
 
 ## Контакти автора
 - Email: denis.shlykov@example.com
-- Telegram: @shlykov
+- Number: +3801984194
