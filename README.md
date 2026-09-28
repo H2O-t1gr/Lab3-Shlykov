@@ -21,3 +21,7 @@
 ## Зображення
 
 ![Логотип](images/logo.jpg)
+
+## Контакти автора
+- Email: denis.shlykov@example.com
+- Telegram: @shlykov
